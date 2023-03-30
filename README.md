@@ -17,7 +17,7 @@ O projeto utiliza o framework Spring Boot e o MongoDB como banco de dados NoSQL.
 ## Modelo Conceitual
 
 
-![modelo conceitual](https://github.com/amandabmach/assets/blob/main/webservice-message/Class%20Diagram0.svg)
+![modelo conceitual](https://github.com/amandabmach/assets/blob/main/webservice-message/diagrama.svg)
 
 
 
